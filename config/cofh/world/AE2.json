@@ -36,5 +36,23 @@
         "dimensions": [
 			6
         ]
+    },
+		"skystone": {
+        "template": "uniform",
+        "block": "appliedenergistics2:tile.BlockSkyStone",
+        "metadata": 0,
+        "clusterSize": 20,
+        "numClusters": 1,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+			6
+        ]
     }
 }
